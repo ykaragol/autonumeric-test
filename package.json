@@ -35,7 +35,9 @@
     "ember-resolver": "^2.0.3",
     "ember-source": "~2.12.0",
     "ember-welcome-page": "^2.0.2",
-    "loader.js": "^4.2.3"
+    "loader.js": "^4.2.3",
+    "ember-autonumeric":"*",
+    "autonumeric": "4.0.0-beta.16"
   },
   "engines": {
     "node": ">= 4"
